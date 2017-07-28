@@ -1,0 +1,3 @@
+[submodule "sub"]
+	path = sub
+	url = git@github.com:zhiyuan1024/sub.git
